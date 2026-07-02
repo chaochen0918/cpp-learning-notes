@@ -1,2 +1,8 @@
-# cpp-learning-notes
-chao-chen's learning cpp notes
+# Basic
+- 2.7 Forward declarations and definitions (2026/7/1)
+- 2.8 Programs with multiple code files (2026/7/2)
+# Pointers | References
+# Classes | Constructors/Destructors
+# Dynamic memory live
+# Resources
+- learncpp.com
